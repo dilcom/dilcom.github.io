@@ -9,8 +9,8 @@ fa-icon: code
 
 OS:
 
-* Worked on Windows
-* Worked on Linux (Ubuntu, RHEL, OpenSuse)
+* Worked under Windows
+* Worked under Linux (Ubuntu, RHEL, OpenSuse)
 
 Languages:
 
