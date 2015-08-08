@@ -1,0 +1,10 @@
+.photo-circle-shadow {
+  -webkit-box-shadow: 0px 0px 0px 25px #6DB6E9;
+  -moz-box-shadow: 0px 0px 0px 25px #6DB6E9;
+  box-shadow: 0px 0px 0px 25px #6DB6E9;
+  border-radius: 100px;
+  width: 200px;
+  height: 200px;
+}
+
+.photo-align-right{ float: right; }
