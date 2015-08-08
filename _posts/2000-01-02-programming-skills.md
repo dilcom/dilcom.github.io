@@ -9,25 +9,22 @@ fa-icon: code
 
 OS:
 
-* Windows
-* Linux (Ubuntu, RHEL, OpenSuse)
+* Worked on Windows
+* Worked on Linux (Ubuntu, RHEL, OpenSuse)
 
 Languages:
 
 * Comfortable with Ruby
-* Comfortable with C++
-* Familiar with JavaScript (CoffeeScript)
-* Familiar with CSS (SCSS/LESS)
-* Familiar with HTML
+* Dabbled with JavaScript (CoffeeScript), CSS (SCSS/LESS), HTML
 * Familiar with SQL up to INNER/OUTER JOIN
 
 Frameworks:
 
-* Familiar with Rails
+* Know basics of Rails
 
 Tools:
 
-* SCV - git
+* SCM - git
 * Testing with RSpec, Cucumber
 * Documenting with RDoc, YARD
 * Code style and quality - Rubocop, Codeclimate + testcoverage

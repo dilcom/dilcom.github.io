@@ -15,4 +15,4 @@ fa-icon: comments-o
 * Honesty
 * Team player
 * Responsibility
-* Understanding of what deadline is and why it's important to fit in it
+* Understanding of what deadline is and why it's important to fit it
