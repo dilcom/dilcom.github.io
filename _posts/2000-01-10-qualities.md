@@ -8,7 +8,7 @@ fa-icon: comments-o
 ##### Languages
 
 * Russian - native
-* English - conversational - can verbally discuss IT subjects
+* English - conversational - can verbally discuss IT subjects (TOEFL cert. 102/120 = 28 + 28 + 23 + 23)
 
 ##### Personal skills
 

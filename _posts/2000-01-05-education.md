@@ -14,7 +14,7 @@ I took following courses among others during sudy:
 * Higher mathematics courses such as Discrete mathematics, Automata theory, Linear algebra, Mathematical logic and so on.
 * Programming basics (Pascal).
 * Object-oriented programming (C++).
-* Web programming (Ruby + Rails, CSS, JavaScript).
+* Web programming (Ruby + RoR, CSS, JavaScript).
 * Algorithms and data structures ([Standford course](https://www.coursera.org/course/algo) on Coursera).
 
 I also used Ruby and C++ in several non-study project during this time:

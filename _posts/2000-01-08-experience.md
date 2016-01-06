@@ -26,3 +26,7 @@ Half-time programmer in Vivoss. Worked on build continuous delivery system for c
 ##### Jun 2015 - Aug 2015
 
 Participating in Google Summer of Code with GnuplotRB project (plotting tool for Ruby users based on Gnuplot). [Project proposal](http://www.google-melange.com/gsoc/proposal/public/google/gsoc2015/dilcom/5629499534213120), [blog](http://www.evgrafov.work/gnuplotrb/), [repository](https://github.com/dilcom/gnuplotrb).
+
+##### Sep 2015 - Now
+
+Working as backend developer in [Insales JSC](http://www.insales.ru/) on [EKAM](http://www.ekam.ru/).
