@@ -11,8 +11,6 @@ permalink: / ## disables post output
 timezone: null
 lsi: false
 markdown: kramdown
-highlighter: pygments
-
 
 ### content configuration ###
 title:          "Ruby programmer - Ivan Evgrafov"
@@ -22,14 +20,14 @@ github_account: "https://github.com/dilcom"
 favicon:        "img/favicon.png"
 touch_icon:     "img/apple-touch-icon.png"
 
-
 ### template colors, used site-wide via css ###
 colors:
   black:     '#111111'
   white:     '#f8f8f8'
   blue:      '#49a7e9'
   green:     '#9bcf2f'
-  ####purple:    '#c869bf'
   purple:    '#880AFF'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
+kramdown:
+  auto_ids:  false
