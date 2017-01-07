@@ -13,12 +13,13 @@ lsi: false
 markdown: kramdown
 
 ### content configuration ###
-title:          "Ruby programmer - Ivan Evgrafov"
+title:          "Fullstack RoR developer - Ivan Evgrafov"
 keywords:       "github, blog, dilcom, ivan evgrafov"
 source_link:    "https://github.com/dilcom/dilcom.github.io"
 github_account: "https://github.com/dilcom"
 favicon:        "img/favicon.png"
 touch_icon:     "img/apple-touch-icon.png"
+google_analytics_key: "UA-89924744-1"
 
 ### template colors, used site-wide via css ###
 colors:
